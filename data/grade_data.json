@@ -61,15 +61,21 @@
       },
       {
         "exam": "9월2일 인천시교육청",
-        "subject": "수학 (하락 경고)",
-        "badge": "76점 3등급 (반 7위 / 전교 43위)",
-        "detail": "3·6월 1등급에서 9월 중상위권(상위 25.9%)으로 하락. 킬러·준킬러 대량 실점(24점 감점)으로 집중 보강 시급"
+        "subject": "국+수+탐 종합 백분위",
+        "badge": "공식 91.13% (상위 8.87%)",
+        "detail": "전국 35만 7,001명 중 상위 8.87% 확정 (수학+탐구 93.25%, 상위 6.75%로 이공계열 정시 초강세)"
+      },
+      {
+        "exam": "9월2일 인천시교육청",
+        "subject": "수학 (공식 2등급 수성)",
+        "badge": "76점 2등급 (전국 90.55% • 표점 129)",
+        "detail": "3·6월 1등급 대비 킬러 실점으로 하락했으나 가채점 3등급 우려를 깨고 전국 상위 9.45%로 공식 2등급 방어 성공"
       },
       {
         "exam": "9월2일 인천시교육청",
         "subject": "과학탐구",
-        "badge": "47.5점 1등급 (전교 12위 / 반 2위)",
-        "detail": "6월 전교 1위 만점에 이어 9월에도 유일하게 1등급을 지킨 핵심 주력 과목"
+        "badge": "47.5점 1등급 (전국 96.39% • 표점 68)",
+        "detail": "전교 12위, 전국 상위 3.61%로 6월에 이어 9월에도 유일하게 1등급을 굳건히 지킨 핵심 주력 과목"
       },
       {
         "exam": "9월2일 인천시교육청",
@@ -386,17 +392,32 @@
       "shortName": "고1 9월",
       "timelineLabel": "고1 9월",
       "date": "2026-09-02",
-      "status": "pending_national",
-      "statusLabel": "전국통지표 발급 대기중 (학교 채점표)",
+      "status": "confirmed",
+      "statusLabel": "공식 전국통지표 확정",
       "schoolImage": "images/grade1/school/20260903_211546.jpg",
-      "nationalImage": null,
-      "nationalApplicants": null,
+      "nationalImage": "images/grade1/national/20260902_national_report.jpg",
+      "nationalApplicants": 363150,
       "totals": {
         "korean_math_english": 225.0,
         "overall": 361.5,
         "max_overall": 450
       },
-      "combinedPercentiles": null,
+      "combinedPercentiles": {
+        "korean_math": 88.95,
+        "korean_inquiry": 89.21,
+        "math_inquiry": 93.25,
+        "korean_math_inquiry": 91.13,
+        "best_inquiry": 96.25,
+        "sum_inquiry": 93.89
+      },
+      "remedialQuestions": {
+        "국어": [6, 26, 41, 24, 22],
+        "수학": [16, 21, 26, 27, 30],
+        "영어": [15, 35, 29, 42, 11],
+        "한국사": [],
+        "사회탐구": [20, 15, 12, 18, 17],
+        "과학탐구": [8]
+      },
       "cutoffs": {
         "국어": [89, 82, 69, 59, 43, 28, 21, 17, 0],
         "수학": [96, 85, 74, 62, 51, 31, 18, 13, 0],
@@ -419,8 +440,8 @@
           "schoolRank": 47,
           "schoolTotal": 251,
           "schoolPercent": 18.73,
-          "nationalStdScore": null,
-          "nationalPercentile": null,
+          "nationalStdScore": 121,
+          "nationalPercentile": 82.71,
           "nationalGrade": 3,
           "grade": 3
         },
@@ -437,10 +458,10 @@
           "schoolRank": 43,
           "schoolTotal": 251,
           "schoolPercent": 17.13,
-          "nationalStdScore": null,
-          "nationalPercentile": null,
-          "nationalGrade": 3,
-          "grade": 3
+          "nationalStdScore": 129,
+          "nationalPercentile": 90.55,
+          "nationalGrade": 2,
+          "grade": 2
         },
         {
           "name": "영어",
@@ -488,11 +509,11 @@
           "classRank": 4,
           "classTotal": 28,
           "classPercent": 14.29,
-          "schoolRank": 45,
+          "schoolRank": 42,
           "schoolTotal": 252,
-          "schoolPercent": 17.86,
-          "nationalStdScore": null,
-          "nationalPercentile": null,
+          "schoolPercent": 16.67,
+          "nationalStdScore": 60,
+          "nationalPercentile": 83.05,
           "nationalGrade": 3,
           "grade": 3
         },
@@ -509,8 +530,8 @@
           "schoolRank": 12,
           "schoolTotal": 252,
           "schoolPercent": 4.76,
-          "nationalStdScore": null,
-          "nationalPercentile": null,
+          "nationalStdScore": 68,
+          "nationalPercentile": 96.39,
           "nationalGrade": 1,
           "grade": 1
         }
