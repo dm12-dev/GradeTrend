@@ -5,10 +5,17 @@
 
 ---
 
-## 🚀 빠른 실행 방법
+## 🚀 빠른 실행 및 열람 방법
 
-- **원클릭 실행**: `run_dashboard.bat`을 더블 클릭합니다.
-- **또는 브라우저 직접 열기**: `index.html`을 더블 클릭하여 크롬/엣지/사파리 등에서 확인합니다.
+- **GitHub 온라인 열람 (추천)**: 저장소 [dm12-dev/GradeTrend](https://github.com/dm12-dev/GradeTrend)의 GitHub Pages 활성화 시 모바일/PC 어디서나 웹 주소로 즉시 확인 가능
+- **원클릭 로컬 실행**: `run_dashboard.bat`을 더블 클릭합니다.
+- **브라우저 직접 열기**: `index.html`을 더블 클릭하여 크롬/엣지/사파리 등에서 확인합니다.
+
+---
+
+## 🔗 저장소 정보
+- **GitHub Repository**: [https://github.com/dm12-dev/GradeTrend](https://github.com/dm12-dev/GradeTrend)
+- **배포 브랜치**: `main`
 
 ---
 
