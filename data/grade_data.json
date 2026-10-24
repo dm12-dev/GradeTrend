@@ -1,0 +1,552 @@
+{
+  "student": {
+    "name": "신운섭",
+    "school": "동북고등학교",
+    "cohortYear": 2026,
+    "currentGrade": 1,
+    "currentClass": 7,
+    "currentNumber": 16,
+    "targetGoals": {
+      "국어": 2,
+      "수학": 1,
+      "영어": 1,
+      "한국사": 1,
+      "탐구1": 1,
+      "탐구2": 1,
+      "combined_percentile": 96.0
+    }
+  },
+  "academicYears": [
+    {
+      "grade": 1,
+      "year": 2026,
+      "label": "1학년",
+      "fullLabel": "고등학교 1학년 (현재 진행)",
+      "class": 7,
+      "number": 16,
+      "status": "active"
+    },
+    {
+      "grade": 2,
+      "year": 2027,
+      "label": "2학년",
+      "fullLabel": "고등학교 2학년 (예정)",
+      "class": null,
+      "number": null,
+      "status": "upcoming"
+    },
+    {
+      "grade": 3,
+      "year": 2028,
+      "label": "3학년",
+      "fullLabel": "고등학교 3학년 (수능 수험생)",
+      "class": null,
+      "number": null,
+      "status": "upcoming"
+    }
+  ],
+  "summary": {
+    "highlights": [
+      {
+        "exam": "6월4일 부산시교육청",
+        "subject": "국+수+탐 종합 백분위",
+        "badge": "전국 96.32% (상위 3.68%)",
+        "detail": "전국 36만 3,890명 중 최상위권 달성 (명문대 정시권)"
+      },
+      {
+        "exam": "6월4일 부산시교육청",
+        "subject": "과학탐구",
+        "badge": "전국 98.65% (상위 1.35%) • 전교 1등 만점",
+        "detail": "표준점수 68점, 전국 36만 4,953명 중 1등급"
+      },
+      {
+        "exam": "9월2일 인천시교육청",
+        "subject": "수학 (하락 경고)",
+        "badge": "76점 3등급 (반 7위 / 전교 43위)",
+        "detail": "3·6월 1등급에서 9월 중상위권(상위 25.9%)으로 하락. 킬러·준킬러 대량 실점(24점 감점)으로 집중 보강 시급"
+      },
+      {
+        "exam": "9월2일 인천시교육청",
+        "subject": "과학탐구",
+        "badge": "47.5점 1등급 (전교 12위 / 반 2위)",
+        "detail": "6월 전교 1위 만점에 이어 9월에도 유일하게 1등급을 지킨 핵심 주력 과목"
+      },
+      {
+        "exam": "9월2일 인천시교육청",
+        "subject": "한국사",
+        "badge": "전교 1등 만점 (50점)",
+        "detail": "학교 252명 중 1위, 20문항 전원 정답"
+      }
+    ]
+  },
+  "exams": [
+    {
+      "id": "g1-03",
+      "gradeYear": 1,
+      "termMonth": 3,
+      "name": "1학년 3월24일 서울시교육청",
+      "shortName": "고1 3월",
+      "timelineLabel": "고1 3월",
+      "date": "2026-03-24",
+      "status": "confirmed",
+      "statusLabel": "공식 전국통지표 확정",
+      "schoolImage": "images/grade1/school/20260903_211617.jpg",
+      "nationalImage": "images/grade1/national/20260903_213147.jpg",
+      "nationalApplicants": 379420,
+      "totals": {
+        "korean_math_english": 227.0,
+        "overall": 348.5,
+        "max_overall": 450
+      },
+      "combinedPercentiles": {
+        "korean_math": 92.82,
+        "korean_inquiry": 79.20,
+        "math_inquiry": 95.77,
+        "korean_math_inquiry": 91.37,
+        "best_inquiry": 83.24,
+        "sum_inquiry": 84.55
+      },
+      "remedialQuestions": {
+        "국어": [2, 10, 18, 41, 25],
+        "수학": [21, 17, 30],
+        "영어": [20, 37, 40, 33, 38],
+        "한국사": [7],
+        "사회탐구": [25, 24, 13, 23, 21],
+        "과학탐구": [10, 20, 21, 6, 14]
+      },
+      "subjects": [
+        {
+          "name": "국어",
+          "subGroup": "korean",
+          "maxScore": 100,
+          "rawScore": 67,
+          "gradeAvg": 56.55,
+          "diffAvg": 10.45,
+          "classRank": 9,
+          "classTotal": 29,
+          "classPercent": 31.03,
+          "schoolRank": 84,
+          "schoolTotal": 263,
+          "schoolPercent": 31.94,
+          "nationalStdScore": 112,
+          "nationalPercentile": 70.22,
+          "nationalGrade": 4,
+          "grade": 4
+        },
+        {
+          "name": "수학",
+          "subGroup": "math",
+          "maxScore": 100,
+          "rawScore": 88,
+          "gradeAvg": 51.86,
+          "diffAvg": 36.14,
+          "classRank": 3,
+          "classTotal": 29,
+          "classPercent": 10.34,
+          "schoolRank": 19,
+          "schoolTotal": 263,
+          "schoolPercent": 7.22,
+          "nationalStdScore": 144,
+          "nationalPercentile": 98.21,
+          "nationalGrade": 1,
+          "grade": 1
+        },
+        {
+          "name": "영어",
+          "subGroup": "english",
+          "maxScore": 100,
+          "rawScore": 72,
+          "gradeAvg": 59.19,
+          "diffAvg": 12.81,
+          "classRank": 8,
+          "classTotal": 29,
+          "classPercent": 27.59,
+          "schoolRank": 69,
+          "schoolTotal": 263,
+          "schoolPercent": 26.24,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "한국사",
+          "subGroup": "history",
+          "maxScore": 50,
+          "rawScore": 47,
+          "gradeAvg": 26.41,
+          "diffAvg": 20.59,
+          "classRank": 1,
+          "classTotal": 29,
+          "classPercent": 3.45,
+          "schoolRank": 10,
+          "schoolTotal": 263,
+          "schoolPercent": 3.80,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 1,
+          "grade": 1
+        },
+        {
+          "name": "사회탐구",
+          "subGroup": "inquiry1",
+          "maxScore": 50,
+          "rawScore": 37.5,
+          "gradeAvg": 29.68,
+          "diffAvg": 7.82,
+          "classRank": 9,
+          "classTotal": 29,
+          "classPercent": 31.03,
+          "schoolRank": 69,
+          "schoolTotal": 263,
+          "schoolPercent": 26.24,
+          "nationalStdScore": 58,
+          "nationalPercentile": 75.60,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "과학탐구",
+          "subGroup": "inquiry2",
+          "maxScore": 50,
+          "rawScore": 37.0,
+          "gradeAvg": 24.39,
+          "diffAvg": 12.61,
+          "classRank": 6,
+          "classTotal": 29,
+          "classPercent": 20.69,
+          "schoolRank": 44,
+          "schoolTotal": 263,
+          "schoolPercent": 16.73,
+          "nationalStdScore": 63,
+          "nationalPercentile": 87.01,
+          "nationalGrade": 3,
+          "grade": 3
+        }
+      ]
+    },
+    {
+      "id": "g1-06",
+      "gradeYear": 1,
+      "termMonth": 6,
+      "name": "1학년 6월4일 부산시교육청",
+      "shortName": "고1 6월",
+      "timelineLabel": "고1 6월",
+      "date": "2026-06-04",
+      "status": "confirmed",
+      "statusLabel": "공식 전국통지표 확정",
+      "schoolImage": "images/grade1/school/20260903_211604.jpg",
+      "nationalImage": "images/grade1/national/20260903_213157.jpg",
+      "nationalApplicants": 369209,
+      "totals": {
+        "korean_math_english": 245.0,
+        "overall": 386.0,
+        "max_overall": 450
+      },
+      "combinedPercentiles": {
+        "korean_math": 95.41,
+        "korean_inquiry": 92.78,
+        "math_inquiry": 97.60,
+        "korean_math_inquiry": 96.32,
+        "best_inquiry": 98.65,
+        "sum_inquiry": 96.80
+      },
+      "remedialQuestions": {
+        "국어": [37, 43, 1, 15, 44],
+        "수학": [15, 20, 21, 29, 30],
+        "영어": [15, 22, 29, 41, 21],
+        "한국사": [3, 7],
+        "사회탐구": [24, 25],
+        "과학탐구": []
+      },
+      "cutoffs": {
+        "국어": [92, 83, 75, 63, 44, 27, 20, 16, 0],
+        "수학": [93, 77, 66, 54, 38, 26, 16, 12, 0],
+        "영어": [90, 80, 70, 60, 50, 40, 30, 20, 0],
+        "한국사": [40, 35, 30, 25, 20, 15, 10, 5, 0],
+        "사회탐구": [50, 48, 45, 41, 34, 20, 12, 8, 0],
+        "과학탐구": [50, 45, 41, 33, 26, 16, 10, 7, 0]
+      },
+      "subjects": [
+        {
+          "name": "국어",
+          "subGroup": "korean",
+          "maxScore": 100,
+          "rawScore": 80,
+          "gradeAvg": 52.25,
+          "diffAvg": 27.75,
+          "classRank": 4,
+          "classTotal": 28,
+          "classPercent": 14.29,
+          "schoolRank": 36,
+          "schoolTotal": 261,
+          "schoolPercent": 13.79,
+          "nationalStdScore": 124,
+          "nationalPercentile": 86.00,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "수학",
+          "subGroup": "math",
+          "maxScore": 100,
+          "rawScore": 80,
+          "gradeAvg": 46.08,
+          "diffAvg": 33.92,
+          "classRank": 2,
+          "classTotal": 28,
+          "classPercent": 7.14,
+          "schoolRank": 24,
+          "schoolTotal": 261,
+          "schoolPercent": 9.20,
+          "nationalStdScore": 143,
+          "nationalPercentile": 96.68,
+          "nationalGrade": 1,
+          "grade": 1
+        },
+        {
+          "name": "영어",
+          "subGroup": "english",
+          "maxScore": 100,
+          "rawScore": 85,
+          "gradeAvg": 61.35,
+          "diffAvg": 23.65,
+          "classRank": 5,
+          "classTotal": 26,
+          "classPercent": 19.23,
+          "schoolRank": 36,
+          "schoolTotal": 249,
+          "schoolPercent": 14.46,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 2,
+          "grade": 2
+        },
+        {
+          "name": "한국사",
+          "subGroup": "history",
+          "maxScore": 50,
+          "rawScore": 45,
+          "gradeAvg": 28.57,
+          "diffAvg": 16.43,
+          "classRank": 2,
+          "classTotal": 26,
+          "classPercent": 7.69,
+          "schoolRank": 33,
+          "schoolTotal": 249,
+          "schoolPercent": 13.25,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 1,
+          "grade": 1
+        },
+        {
+          "name": "사회탐구",
+          "subGroup": "inquiry1",
+          "maxScore": 50,
+          "rawScore": 46.0,
+          "gradeAvg": 33.07,
+          "diffAvg": 12.93,
+          "classRank": 5,
+          "classTotal": 26,
+          "classPercent": 19.23,
+          "schoolRank": 38,
+          "schoolTotal": 249,
+          "schoolPercent": 15.26,
+          "nationalStdScore": 61,
+          "nationalPercentile": 88.25,
+          "nationalGrade": 2,
+          "grade": 2
+        },
+        {
+          "name": "과학탐구",
+          "subGroup": "inquiry2",
+          "maxScore": 50,
+          "rawScore": 50.0,
+          "gradeAvg": 28.54,
+          "diffAvg": 21.46,
+          "classRank": 1,
+          "classTotal": 26,
+          "classPercent": 3.85,
+          "schoolRank": 1,
+          "schoolTotal": 249,
+          "schoolPercent": 0.40,
+          "nationalStdScore": 68,
+          "nationalPercentile": 98.65,
+          "nationalGrade": 1,
+          "grade": 1
+        }
+      ]
+    },
+    {
+      "id": "g1-09",
+      "gradeYear": 1,
+      "termMonth": 9,
+      "name": "1학년 9월2일 인천시교육청",
+      "shortName": "고1 9월",
+      "timelineLabel": "고1 9월",
+      "date": "2026-09-02",
+      "status": "pending_national",
+      "statusLabel": "전국통지표 발급 대기중 (학교 채점표)",
+      "schoolImage": "images/grade1/school/20260903_211546.jpg",
+      "nationalImage": null,
+      "nationalApplicants": null,
+      "totals": {
+        "korean_math_english": 225.0,
+        "overall": 361.5,
+        "max_overall": 450
+      },
+      "combinedPercentiles": null,
+      "cutoffs": {
+        "국어": [89, 82, 69, 59, 43, 28, 21, 17, 0],
+        "수학": [96, 85, 74, 62, 51, 31, 18, 13, 0],
+        "영어": [90, 80, 70, 60, 50, 40, 31, 20, 0],
+        "한국사": [40, 35, 30, 25, 20, 15, 10, 5, 0],
+        "사회탐구": [45, 42, 38, 33, 26, 14, 10, 8, 0],
+        "과학탐구": [48, 44, 38, 30, 20, 12, 10, 8, 0]
+      },
+      "subjects": [
+        {
+          "name": "국어",
+          "subGroup": "korean",
+          "maxScore": 100,
+          "rawScore": 71,
+          "gradeAvg": 49.73,
+          "diffAvg": 21.27,
+          "classRank": 4,
+          "classTotal": 27,
+          "classPercent": 14.81,
+          "schoolRank": 47,
+          "schoolTotal": 251,
+          "schoolPercent": 18.73,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "수학",
+          "subGroup": "math",
+          "maxScore": 100,
+          "rawScore": 76,
+          "gradeAvg": 53.63,
+          "diffAvg": 22.37,
+          "classRank": 7,
+          "classTotal": 27,
+          "classPercent": 25.93,
+          "schoolRank": 43,
+          "schoolTotal": 251,
+          "schoolPercent": 17.13,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "영어",
+          "subGroup": "english",
+          "maxScore": 100,
+          "rawScore": 78,
+          "gradeAvg": 57.53,
+          "diffAvg": 20.47,
+          "classRank": 7,
+          "classTotal": 28,
+          "classPercent": 25.00,
+          "schoolRank": 57,
+          "schoolTotal": 252,
+          "schoolPercent": 22.62,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "한국사",
+          "subGroup": "history",
+          "maxScore": 50,
+          "rawScore": 50,
+          "gradeAvg": 28.91,
+          "diffAvg": 21.09,
+          "classRank": 1,
+          "classTotal": 28,
+          "classPercent": 3.57,
+          "schoolRank": 1,
+          "schoolTotal": 252,
+          "schoolPercent": 0.40,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 1,
+          "grade": 1
+        },
+        {
+          "name": "사회탐구",
+          "subGroup": "inquiry1",
+          "maxScore": 50,
+          "rawScore": 39,
+          "gradeAvg": 27.40,
+          "diffAvg": 11.60,
+          "classRank": 4,
+          "classTotal": 28,
+          "classPercent": 14.29,
+          "schoolRank": 45,
+          "schoolTotal": 252,
+          "schoolPercent": 17.86,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 3,
+          "grade": 3
+        },
+        {
+          "name": "과학탐구",
+          "subGroup": "inquiry2",
+          "maxScore": 50,
+          "rawScore": 47.5,
+          "gradeAvg": 25.38,
+          "diffAvg": 22.12,
+          "classRank": 2,
+          "classTotal": 28,
+          "classPercent": 7.14,
+          "schoolRank": 12,
+          "schoolTotal": 252,
+          "schoolPercent": 4.76,
+          "nationalStdScore": null,
+          "nationalPercentile": null,
+          "nationalGrade": 1,
+          "grade": 1
+        }
+      ]
+    }
+  ],
+  "questionAnalysis": {
+    "국어": {
+      "total": 45, "correct": 28, "wrong": 17,
+      "wrongItems": [6, 12, 16, 18, 19, 23, 25, 26, 28, 33, 34, 36, 38, 40, 41, 42, 44, 45],
+      "comment": "지문 후반부(30번 이후 고난도 독서/문학 영역)에서 시간 부족 및 변별력 문항(D, E난도) 집중 오답 발생"
+    },
+    "수학": {
+      "total": 30, "correct": 25, "wrong": 5,
+      "wrongItems": [15, 24, 27, 29, 30],
+      "comment": "기본 문항(1~14번) 100% 정답률 기록. 15번(객관식 킬러) 및 27, 29, 30번(단답형 최고난도 킬러) 집중 오답"
+    },
+    "영어": {
+      "total": 45, "correct": 39, "wrong": 6,
+      "wrongItems": [20, 26, 32, 35, 38, 40],
+      "comment": "듣기평가 100% 정답. 빈칸추론(32번), 글의 순서/문장삽입(35, 38번), 요약문(40번) 등 킬러 유형에서 일부 실점"
+    },
+    "한국사": {
+      "total": 20, "correct": 20, "wrong": 0,
+      "wrongItems": [],
+      "comment": "20문항 전 문항 완벽 정답! 전교 1등 만점(50점) 달성"
+    },
+    "사회탐구": {
+      "total": 20, "correct": 15, "wrong": 5,
+      "wrongItems": [3, 8, 16, 19, 20],
+      "comment": "개념 이해도는 전반적으로 우수하나, 후반부 자료해석형 19, 20번 문항에서 실점"
+    },
+    "과학탐구": {
+      "total": 20, "correct": 19, "wrong": 1,
+      "wrongItems": [14],
+      "comment": "20문항 중 단 1문항(14번)만 오답! 47.5점 고득점 기록(전교 12등)"
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "lastUpdated": "2026-09-03",
+  "examsProfiles": {
+    "g1-06": {
+      "examId": "g1-06",
+      "examName": "6월 부산시교육청 (커리어 하이)",
+      "date": "2026-06-04",
+      "scores": {
+        "korean": { "raw": 80, "percentile": 86.00, "grade": 3 },
+        "math": { "raw": 80, "percentile": 96.68, "grade": 1 },
+        "english": { "raw": 85, "grade": 2 },
+        "science": { "raw": 50, "percentile": 98.65, "grade": 1 },
+        "history": { "raw": 45, "grade": 1 },
+        "combinedPercentile": 96.32
+      },
+      "admissionSummary": "수학 1등급(96.7%)과 과학탐구 50점 만점(전국 98.7%, 상위 1.35%)의 압도적인 수·과 결합 파워로 성균관대·서강대·한양대 상위 공학계열 합격권(적정)이며, 연세대·고려대 자연계열 및 중위권 공대에 소신 지원이 가능합니다.",
+      "recommendations": [
+        {
+          "tier": "target",
+          "tierLabel": "도약 목표 (30~45%)",
+          "university": "연세대학교",
+          "department": "시스템반도체공학과 (삼성전자 계약)",
+          "field": "반도체/AI",
+          "cutoff": "97.8%",
+          "weights": "국 22.2% | 수 33.3% | 과 33.3% | 영 11.1%",
+          "evaluation": "수학 1등급과 과탐 만점(98.65%)의 가산 효과가 크나, 국어 86% 및 영어 2등급(-5점) 감점으로 인해 도약권으로 분류됩니다. 국어 1~2등급 도약 시 합격 가시권 진입."
+        },
+        {
+          "tier": "target",
+          "tierLabel": "도약 목표 (30~45%)",
+          "university": "고려대학교",
+          "department": "스마트모빌리티학부 (현대차 계약)",
+          "field": "기계/모빌리티",
+          "cutoff": "97.6%",
+          "weights": "국 31.25% | 수 37.5% | 과 31.25% | 영 감점제",
+          "evaluation": "고려대는 영어 2등급 감점이 -3점으로 적어 연세대보다 유리합니다. 수학 37.5% 가중치 덕분에 도약권 상단에 위치합니다."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "성균관대학교",
+          "department": "반도체시스템공학과",
+          "field": "반도체/AI",
+          "cutoff": "96.8%",
+          "weights": "국 25.0% | 수 40.0% | 과 35.0% | 영 가산점",
+          "evaluation": "수학 40% + 과탐 35% 반영(수·과 비중 75%)으로, 수·탐에 강점을 가진 학생에게 유리한 전형 구조입니다."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "한양대학교",
+          "department": "미래자동차공학과",
+          "field": "기계/모빌리티",
+          "cutoff": "96.7%",
+          "weights": "국 20.0% | 수 35.0% | 과 35.0% | 영 10.0%",
+          "evaluation": "국어 반영비가 20%에 불과하여 국어 감점이 상쇄되며, 과탐 만점 가산으로 실질 합격 확률 60%를 상회합니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "성균관대학교",
+          "department": "공학계열 (전자전기/기계/화학공학)",
+          "field": "통합공학",
+          "cutoff": "95.8%",
+          "weights": "국 25.0% | 수 40.0% | 과 35.0% | 영 가산점",
+          "evaluation": "대규모 통합 선발로 합격선이 안정적이며, 현재 성적으로 최초합격 가능권에 위치하는 최적의 적정 카드입니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "서강대학교",
+          "department": "전자공학과 / 컴퓨터공학과",
+          "field": "전기전자/SW",
+          "cutoff": "95.9%",
+          "weights": "국 36.7% | 수 43.3% | 과 20.0% | 영 가산점",
+          "evaluation": "수학 반영비율 43.3%가 적용되어, 수학 1등급(표점 143점)이 총점을 강력하게 견인합니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "한양대학교",
+          "department": "신소재공학부 / 기계공학부",
+          "field": "화학/소재/기계",
+          "cutoff": "95.7%",
+          "weights": "국 20.0% | 수 35.0% | 과 35.0% | 영 10.0%",
+          "evaluation": "과탐 35% 반영비 덕분에 합격 안정성이 매우 뛰어난 대표 적정 지원 학과입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "중앙대학교",
+          "department": "창의ICT공과대학 / 소프트웨어학부",
+          "field": "전기전자/SW",
+          "cutoff": "95.2%",
+          "weights": "국 25.0% | 수 40.0% | 과 35.0% | 영 가산점",
+          "evaluation": "합격 확률 90% 이상의 매우 안정적인 지원권입니다. 다군 중앙대 소프트웨어 또는 나군 창의ICT 동시 공략 가능."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "서울시립대학교",
+          "department": "인공지능학과 / 전자전기컴퓨터공학부",
+          "field": "전기전자/AI",
+          "cutoff": "94.5%",
+          "weights": "국 20.0% | 수 40.0% | 과 30.0% | 영 10.0%",
+          "evaluation": "수학 40% 가중치 우대 적용으로 최초합격 안정권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "경희대학교",
+          "department": "전자공학과 / 컴퓨터공학부",
+          "field": "전기전자/SW",
+          "cutoff": "94.2%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "안정 지원 하방 지지선으로 적합합니다."
+        }
+      ]
+    },
+    "g1-03": {
+      "examId": "g1-03",
+      "examName": "3월 서울시교육청",
+      "date": "2026-03-24",
+      "scores": {
+        "korean": { "raw": 67, "percentile": 70.22, "grade": 4 },
+        "math": { "raw": 88, "percentile": 98.21, "grade": 1 },
+        "english": { "raw": 72, "grade": 3 },
+        "science": { "raw": 37, "percentile": 87.01, "grade": 3 },
+        "history": { "raw": 47, "grade": 1 },
+        "combinedPercentile": 91.37
+      },
+      "admissionSummary": "수학은 전국 98.21%(전국 상위 1.79%, 표점 144점)로 최고 수준이나, 국어 4등급(70.22%)과 영어 3등급, 과탐 3등급(87.01%)의 한계로 인해 종합 백분위 91.37%를 기록했습니다. 국어·영어 감점이 적고 수학 가중치가 높은 대학을 중심으로 지원 전략이 재편됩니다.",
+      "recommendations": [
+        {
+          "tier": "target",
+          "tierLabel": "도약 목표 (30~45%)",
+          "university": "중앙대학교",
+          "department": "창의ICT공과대학 (전자전기 등)",
+          "field": "전기전자",
+          "cutoff": "95.0%",
+          "weights": "국 25.0% | 수 40.0% | 과 35.0% | 영 가산점",
+          "evaluation": "국어 4등급이지만 수학 40%(표점 144점)의 강점으로 중앙대 공학계열 추합을 노려볼 수 있는 상향 도약 카드입니다."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "서울시립대학교",
+          "department": "기계정보공학과 / 토목공학과",
+          "field": "기계/토목",
+          "cutoff": "93.8%",
+          "weights": "국 20.0% | 수 40.0% | 과 30.0% | 영 10.0%",
+          "evaluation": "국어 반영비 20%로 낮고 수학 40% 반영. 영어 3등급 감점이 크지 않아 소신 지원권에 진입합니다."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "건국대학교",
+          "department": "스마트운행체공학과 / 기계항공공학부",
+          "field": "기계/모빌리티",
+          "cutoff": "93.5%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "수학 1등급 파워로 건국대 공학계열 소신 도전권입니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "동국대학교",
+          "department": "전자전기공학부 / 정보통신공학과",
+          "field": "전기전자",
+          "cutoff": "91.8%",
+          "weights": "국 25.0% | 수 35.0% | 과 25.0% | 영 15.0%",
+          "evaluation": "3월 성적으로 가장 안정적인 적정 지원 라인입니다. 수학 표점 144점이 국어 감점을 충분히 방어합니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "홍익대학교",
+          "department": "전자전기공학부 / 신소재화공시스템",
+          "field": "전기전자/화학",
+          "cutoff": "91.5%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "다군 홍익대 공과대학 적정 지원권에 위치합니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "아주대학교",
+          "department": "AI모빌리티공학과 / 전자공학과",
+          "field": "기계/모빌리티",
+          "cutoff": "91.2%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "수학 반영비가 높은 특성화 학과로 적정 합격 유력권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "숭실대학교",
+          "department": "소프트웨어학부 / 전자정보공학부",
+          "field": "컴퓨터/SW",
+          "cutoff": "89.5%",
+          "weights": "국 20.0% | 수 35.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "수학 1등급 우대 효과로 숭실대 소프트웨어학부 최초합격 안정권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "국민대학교",
+          "department": "자동차융합대학 / 인공지능학부",
+          "field": "기계/모빌리티",
+          "cutoff": "89.0%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "자동차 특성화 명문 학과. 안정적인 최초합격권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "인하대학교",
+          "department": "기계공학과 / 항공우주공학과",
+          "field": "기계/모빌리티",
+          "cutoff": "88.5%",
+          "weights": "국 20.0% | 수 35.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "합격 확률 95% 이상의 안정적인 하방 지지선입니다."
+        }
+      ]
+    },
+    "g1-09": {
+      "examId": "g1-09",
+      "examName": "9월 인천시교육청 (최신 시험)",
+      "date": "2026-09-02",
+      "scores": {
+        "korean": { "raw": 71, "grade": 3, "percentileEst": 78.5 },
+        "math": { "raw": 76, "grade": 3, "percentileEst": 83.5 },
+        "english": { "raw": 78, "grade": 3 },
+        "science": { "raw": 47.5, "grade": 1, "percentileEst": 95.5 },
+        "history": { "raw": 50, "grade": 1 },
+        "combinedPercentileEst": 86.8
+      },
+      "admissionSummary": "수학이 76점(3등급)으로 하락하고 국어가 71점(3등급), 영어가 78점(3등급)을 기록한 회차입니다. 과학탐구는 47.5점(전국 1등급, 전교 12위)으로 견고하나, 국·수·영 동반 하락으로 종합 백분위가 약 86~88% 수준으로 조정되었습니다. 서울 중위권 및 수도권 특성화 공과대학 중심의 현실적 지원선이 형성됩니다.",
+      "recommendations": [
+        {
+          "tier": "target",
+          "tierLabel": "도약 목표 (30~45%)",
+          "university": "동국대학교",
+          "department": "정보통신공학과 / 건설환경공학",
+          "field": "전기전자/건축",
+          "cutoff": "90.5%",
+          "weights": "국 25.0% | 수 35.0% | 과 25.0% | 영 15.0%",
+          "evaluation": "과탐 47.5점(1등급)의 점수 보전으로 동국대 하위 공학계열 추합을 노려볼 수 있는 상향 도전선입니다."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "홍익대학교",
+          "department": "기계·시스템디자인공학 / 도시공학",
+          "field": "기계/도시",
+          "cutoff": "89.8%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "다군 홍익대의 소신 지원권입니다. 충원 합격 가능성을 염두에 두고 지원하는 라인."
+        },
+        {
+          "tier": "reach",
+          "tierLabel": "소신 지원 (50~65%)",
+          "university": "국민대학교",
+          "department": "자동차공학과 / 미래모빌리티학과",
+          "field": "기계/모빌리티",
+          "cutoff": "88.8%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "국민대 간판 학과로 과탐 1등급 가산점으로 경쟁력을 유지하는 소신권입니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "숭실대학교",
+          "department": "기계공학부 / 정보사회학과",
+          "field": "기계/SW",
+          "cutoff": "87.0%",
+          "weights": "국 20.0% | 수 35.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "9월 성적으로 가장 적절한 적정 지원선입니다. 수학 3등급대 학생 중 과탐 우수자에게 최적."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "서울과학기술대학교",
+          "department": "전자IT미디어공학과 / 기계·자동차공학",
+          "field": "전기전자/기계",
+          "cutoff": "86.5%",
+          "weights": "국 20.0% | 수 35.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "국립 서울과기대의 대표 공학계열로 적정 합격 확률 75% 이상입니다."
+        },
+        {
+          "tier": "realistic",
+          "tierLabel": "적정 지원 (70~85%)",
+          "university": "아주대학교",
+          "department": "소프트웨어학과 / 신소재공학과",
+          "field": "컴퓨터/화학",
+          "cutoff": "86.2%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "취업률이 높은 수도권 최상위 공대. 적정 안정권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "세종대학교",
+          "department": "소프트웨어학과 / 지능기전공학부",
+          "field": "컴퓨터/AI",
+          "cutoff": "84.5%",
+          "weights": "국 15.0% | 수 40.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "국어 반영비가 15%로 낮아 국어 감점 영향이 적은 최초합격 안정권입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "광운대학교",
+          "department": "전자공학과 / 컴퓨터정보공학부",
+          "field": "전기전자/SW",
+          "cutoff": "84.2%",
+          "weights": "국 20.0% | 수 35.0% | 과 25.0% | 영 20.0%",
+          "evaluation": "전자·컴퓨터 특성화 대학으로 합격 안정성이 높은 확실한 하방 지지선입니다."
+        },
+        {
+          "tier": "safe",
+          "tierLabel": "안정 지원 (85~98%)",
+          "university": "단국대학교 (죽전)",
+          "department": "소프트웨어학과 / 모바일시스템공학",
+          "field": "컴퓨터/SW",
+          "cutoff": "83.8%",
+          "weights": "국 20.0% | 수 35.0% | 과 30.0% | 영 15.0%",
+          "evaluation": "최초합격 확률 95% 이상의 안정 카드입니다."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# Archives and large temporary packages
+*.zip
+Photos-*.zip
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary and log files
+*.tmp
+*.bak
+*.swp
+*.log
